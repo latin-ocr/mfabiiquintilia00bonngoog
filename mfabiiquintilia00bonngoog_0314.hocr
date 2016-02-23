@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mfabiiquintilia00bonngoog/mfabiiquintilia00bonngoog_0314.png"; bbox 0 0 2566 4026; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 237 471 938 589">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 237 471 938 603">
+     <span class='ocr_line' id='line_1_1' title="bbox 237 471 938 589; baseline -0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 237 475 298 585; x_wconf 83' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 328 473 506 584; x_wconf 79' lang='lat' dir='ltr'><strong>FABH</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 536 471 938 589; x_wconf 79' lang='lat' dir='ltr'><strong>QUINTILIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 78 781 1098 927">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 78 781 1098 981">
+     <span class='ocr_line' id='line_1_2' title="bbox 78 781 1098 927; baseline -0.001 -11"><span class='ocrx_word' id='word_1_4' title='bbox 78 781 629 919; x_wconf 74' lang='lat' dir='ltr'>INSTITUTIONIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 668 781 1098 927; x_wconf 80' lang='lat' dir='ltr'><strong>ORATORIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 393 1125 771 1226">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 393 1125 771 1226">
+     <span class='ocr_line' id='line_1_3' title="bbox 393 1125 771 1226; baseline 0.005 -36"><span class='ocrx_word' id='word_1_6' title='bbox 393 1127 512 1191; x_wconf 81' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_7' title='bbox 534 1125 771 1226; x_wconf 69' lang='lat' dir='ltr'>DUODEOIM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1288 4026">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1288 4026">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1288 4026; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1288 4026; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
